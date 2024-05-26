@@ -14,3 +14,5 @@ Radeon 6600 Eagle
 
 Wifi and Bluetooth Don't work.
 
+Marinner
+
