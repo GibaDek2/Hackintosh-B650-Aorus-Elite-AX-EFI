@@ -4,9 +4,9 @@ My Setup:
 
 B650 Aorus Elite AX
 
-Ryzen 7700x
+Ryzen 7600
 
-Radeon 6900 XT OC Formula
+Radeon 6600 Eagle
 
 32Gb DDR5 Renegate 6000 cl32
 
@@ -14,4 +14,3 @@ Radeon 6900 XT OC Formula
 
 Wifi and Bluetooth Don't work
 
-I edited device properties, for my 6900 work correctly with metal
