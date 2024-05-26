@@ -12,5 +12,5 @@ Radeon 6600 Eagle
 
 2x Nvme Gammix s70 Blade
 
-Wifi and Bluetooth Don't work
+Wifi and Bluetooth Don't work.
 
